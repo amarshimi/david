@@ -1,0 +1,13 @@
+<?php
+/**
+ * Implements hook_theme().
+ */
+function david_list_theme()
+{
+  return [
+    'all_apartments' => [
+      'variables' => ['title' => NULL, 'data' => NULL],
+      'template' => 'all-apartments',
+    ],
+  ];
+}

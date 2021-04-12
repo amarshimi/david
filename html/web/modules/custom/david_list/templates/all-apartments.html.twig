@@ -1,0 +1,54 @@
+<div class="container">
+
+  <div class="apartments">
+    {% for key,node in data %}
+      <div class="apartment">
+
+        <div class="header">
+          <div class="image"><img src="/images/feed_re_placeholder_small.png"></div>
+          <div class="title">
+            {{ node.field_address.value }}
+          </div>
+          <div class="rooms">
+            {{ node.field_rooms.value }}
+            <span>{{ 'Rooms'|t }}  </span>
+          </div>
+          <div class="floor">
+            <span>{{ 'Floor'|t }}  </span>
+            {{ node.field_floor.value }}
+
+          </div>
+          <div class="apartment-size">
+            {{ node.field_apartment_size.value }}
+            <span>{{ 'Apartment size'|t }}</span>
+          </div>
+          <div class="price">
+            {{ node.field_price.value }}
+            <span>{{ 'Price'|t }}</span>
+          </div>
+        </div>
+
+
+        <div class="apartment-details">
+          <div class="description">
+            <div> {{ 'Apartment Description'|t }}</div>
+            {{ node.body.value|raw }}
+          </div>
+          <div class="home">
+
+            <div class="row">
+              <div class="col-4"><i class="balconies"></i>  {{ node.field_balconies.value }} </div>
+            </div>
+
+          </div>
+          {{ node.field_elevators.value }}
+        </div>
+
+      </div>
+    {% endfor %}
+  </div>
+
+
+</div>
+
+

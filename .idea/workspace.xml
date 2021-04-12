@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b0eca3b-2007-483d-9d5a-decbfa1f38f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/html/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/html/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/html/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/html/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/html/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/html/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/html/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/html/vendor/composer" />
+      <path value="$PROJECT_DIR$/html/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/html/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/html/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/html/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/html/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/html/vendor/drupal/core-project-message" />
+      <path value="$PROJECT_DIR$/html/vendor/drupal/core-composer-scaffold" />
+      <path value="$PROJECT_DIR$/html/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/html/vendor/laminas/laminas-feed" />
+      <path value="$PROJECT_DIR$/html/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/html/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/html/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/html/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/html/vendor/pear/archive_tar" />
+      <path value="$PROJECT_DIR$/html/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/html/vendor/typo3/phar-stream-wrapper" />
+      <path value="$PROJECT_DIR$/html/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/html/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/html/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/html/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/html/vendor/doctrine/collections" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1r3yvv4SMsO8CgOI16arsiCaCpo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/web/modules/custom/david_list" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html/web/modules/custom/david_list" />
+      <recent name="$PROJECT_DIR$/html/web/modules/custom" />
+      <recent name="$PROJECT_DIR$/html/web/themes/custom/test/libraries/bootstrap/css" />
+      <recent name="$PROJECT_DIR$/html/web/themes/custom/test" />
+      <recent name="$PROJECT_DIR$/html/web/sites/default" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0eca3b-2007-483d-9d5a-decbfa1f38f1" name="Default Changelist" comment="" />
+      <created>1618219301370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618219301370</updated>
+      <workItem from="1618219302455" duration="12340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

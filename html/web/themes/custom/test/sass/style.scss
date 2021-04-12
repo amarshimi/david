@@ -1,0 +1,29 @@
+
+.apartments {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .apartment {
+    border: 1px solid;
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+    /*  div {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+      }*/
+    }
+  }
+
+}
+
+pre {
+  direction: ltr;
+  text-align: left;
+}
