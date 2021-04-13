@@ -1,15 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b0eca3b-2007-483d-9d5a-decbfa1f38f1" name="Default Changelist" comment="" />
+    <list default="true" id="7b0eca3b-2007-483d-9d5a-decbfa1f38f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-air-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-balcony-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-building-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-elevator-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-event-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-hotel-building-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-parking-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-phone-80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/web/images/icons8-prison-64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/web/modules/custom/david_list/templates/all-apartments.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/html/web/modules/custom/david_list/templates/all-apartments.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/web/themes/custom/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/web/themes/custom/test/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/web/themes/custom/test/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/html/web/themes/custom/test/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/web/themes/custom/test/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/html/web/themes/custom/test/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_bootstrap.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_bootstrap.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_config.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_config.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_data.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_data.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_default.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_default.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_discovery.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_discovery.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_entity.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_entity.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_menu.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cache_menu.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cachetags.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/cachetags.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/config.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/config.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/file_managed.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/file_managed.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/file_usage.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/file_usage.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/history.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/history.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/key_value.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/key_value.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/key_value_expire.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/key_value_expire.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locale_file.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locale_file.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locales_location.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locales_location.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locales_source.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locales_source.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locales_target.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/locales_target.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__body.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__body.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__comment.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__comment.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_address.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_address.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_air_conditioner.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_air_conditioner.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_apartment_size.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_apartment_size.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_balconies.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_balconies.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_bars.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_bars.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_elevators.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_elevators.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_entry_date.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_entry_date.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_floor.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_floor.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_floors_in_the_building.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_floors_in_the_building.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_image.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_image.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_parking.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_parking.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_pictures.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_pictures.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_price.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_price.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_rooms.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_rooms.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_tags.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node__field_tags.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_field_data.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_field_data.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_field_revision.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_field_revision.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__body.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__body.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__comment.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__comment.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_address.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_address.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_air_conditioner.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_air_conditioner.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_apartment_size.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_apartment_size.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_balconies.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_balconies.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_bars.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_bars.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_elevators.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_elevators.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_entry_date.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_entry_date.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_floor.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_floor.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_floors_in_the_building.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_floors_in_the_building.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_image.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_image.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_parking.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_parking.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_pictures.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_pictures.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_price.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_price.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_rooms.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_rooms.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_tags.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/node_revision__field_tags.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/queue.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/queue.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/search_dataset.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/search_dataset.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/search_index.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/search_index.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/search_total.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/search_total.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/semaphore.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/semaphore.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/sessions.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/sessions.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/users_field_data.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/users_field_data.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/david_drupal/watchdog.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/david_drupal/watchdog.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/ib_logfile1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/ib_logfile1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/mysql/innodb_index_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/mysql/innodb_index_stats.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/runtime2/mysql/innodb_table_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/runtime2/mysql/innodb_table_stats.ibd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/html/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -88,7 +184,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/web/modules/custom/david_list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/web/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -102,14 +198,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html/web/images" />
       <recent name="$PROJECT_DIR$/html/web/modules/custom/david_list" />
       <recent name="$PROJECT_DIR$/html/web/modules/custom" />
       <recent name="$PROJECT_DIR$/html/web/themes/custom/test/libraries/bootstrap/css" />
       <recent name="$PROJECT_DIR$/html/web/themes/custom/test" />
-      <recent name="$PROJECT_DIR$/html/web/sites/default" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7b0eca3b-2007-483d-9d5a-decbfa1f38f1" name="Default Changelist" comment="" />
@@ -118,10 +217,22 @@
       <option name="presentableId" value="Default" />
       <updated>1618219301370</updated>
       <workItem from="1618219302455" duration="12340000" />
+      <workItem from="1618244343026" duration="11322000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/html/web/modules/custom/david_list/templates/all-apartments.html.twig</url>
+          <line>142</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

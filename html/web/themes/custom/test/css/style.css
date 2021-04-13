@@ -1,18 +1,80 @@
+.visually-hidden {
+  display: none; }
+
+.print {
+  padding: 20px; }
+
 .apartments img {
   max-width: 100%;
   height: auto; }
 
 .apartments .apartment {
-  border: 1px solid; }
+  padding: 20px; }
+  .apartments .apartment .apartment-inner {
+    border: 1px solid #c2c2c2;
+    padding: 15px;
+    height: 185px;
+    overflow: hidden; }
+    .apartments .apartment .apartment-inner.open {
+      height: auto; }
   .apartments .apartment .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /*  div {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-      }*/ }
+    padding-bottom: 20px; }
+    @media (max-width: 768px) {
+      .apartments .apartment .header {
+        flex-direction: column; } }
+
+.apartments i {
+  width: 30px;
+  height: 30px;
+  display: block;
+  background-size: 100%;
+  margin: 5px 10px; }
+  .apartments i.balconies {
+    background-image: url("/images/icons8-balcony-64.png"); }
+  .apartments i.conditioner {
+    background-image: url("/images/icons8-air-80.png"); }
+  .apartments i.bars {
+    background-image: url("/images/icons8-prison-64.png"); }
+  .apartments i.elevators {
+    background-image: url("/images/icons8-elevator-50.png"); }
+  .apartments i.entry-date {
+    background-image: url("/images/icons8-event-50.png"); }
+  .apartments i.floors {
+    background-image: url("/images/icons8-hotel-building-50.png"); }
+  .apartments i.parking {
+    background-image: url("/images/icons8-parking-50.png"); }
+  .apartments i.phone {
+    background-image: url("/images/icons8-phone-80.png"); }
+
+.apartments .name {
+  padding-left: 5px;
+  font-weight: bold; }
+
+.apartments .col-4 {
+  display: flex;
+  font-size: 14px;
+  align-items: center; }
+  .apartments .col-4.icon-0 {
+    opacity: 0.5; }
+
+.apartments .images {
+  display: flex; }
+  .apartments .images .image img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    margin: 15px 0; }
+
+@media print {
+  .print, #block-test-account-menu {
+    display: none !important; }
+  .apartment-inner {
+    min-height: 1470px;
+    max-height: 1470px;
+    overflow: hidden; } }
 
 pre {
   direction: ltr;
