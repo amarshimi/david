@@ -1,6 +1,0 @@
-david_list.content:
-  path: '/all-apartments'
-  defaults:
-    _controller: '\Drupal\david_list\Controller\AllApartments::list'
-  requirements:
-    _permission: 'access content'
