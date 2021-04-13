@@ -1,0 +1,12 @@
+general:
+  version: 1.x
+  css:
+    theme:
+      libraries/bootstrap/css/bootstrap.min.css: { weight: -1 }
+      libraries/bootstrap/css/bootstrap-rtl.min.css: { weight: -1 }
+      css/style.css: {}
+  js:
+    js/index.js: {attributes: { defer: true}}
+    libraries/bootstrap/js/bootstrap.min.js: { weight: -1, attributes: { defer: true} }
+  dependencies:
+    - core/jquery
