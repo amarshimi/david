@@ -44,6 +44,10 @@
       }
 
     }
+
+    .description {
+      padding-top: 20px;
+    }
   }
 
   i {
@@ -52,6 +56,8 @@
     display: block;
     background-size: 100%;
     margin: 5px 10px;
+    background-repeat: no-repeat;
+    background-position: center;
 
     &.balconies {
       background-image: url("/images/icons8-balcony-64.png");
@@ -120,6 +126,9 @@
 
 
 @media print {
+  body {
+    font-size: 25px;
+  }
   .print, #block-test-account-menu {
     display: none !important;
 

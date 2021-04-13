@@ -8,6 +8,7 @@
     {% set image = "" %}
     {% for key,node in data %}
 
+
       {% set images = [] %}
 
 
@@ -64,22 +65,22 @@
 
             <div class="row">
 
-              <div class="col-md-4 col-sm-12">
+              <div class="col-md-6 col-sm-12">
                 <i class="entry-date"></i>
                 <span class="name">{{ 'entry date'|t }}:</span>
                 {{ node.field_entry_date.value }}
               </div>
 
-              <div class="col-md-4 col-sm-12">
+              <div class="col-md-6 col-sm-12">
                 <i class="floors"></i>
                 <span class="name">{{ 'floors in the building'|t }}:</span>
                 {{ node.field_floors_in_the_building.value }}
               </div>
 
-              <div class="col-md-4 col-sm-12">
+              <div class="col-md-12 col-sm-12">
                 <i class="phone"></i>
                 <span class="name">{{ 'Contact'|t }}:</span>
-                <a href="tel:5551234567">(555)123-4567</a>
+                <a href="tel:5551234567">{{ node.uid.entity.field_phone.value }}</a>
               </div>
 
             </div>

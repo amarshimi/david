@@ -25,13 +25,17 @@
     @media (max-width: 768px) {
       .apartments .apartment .header {
         flex-direction: column; } }
+  .apartments .apartment .description {
+    padding-top: 20px; }
 
 .apartments i {
   width: 30px;
   height: 30px;
   display: block;
   background-size: 100%;
-  margin: 5px 10px; }
+  margin: 5px 10px;
+  background-repeat: no-repeat;
+  background-position: center; }
   .apartments i.balconies {
     background-image: url("/images/icons8-balcony-64.png"); }
   .apartments i.conditioner {
@@ -69,6 +73,8 @@
     margin: 15px 0; }
 
 @media print {
+  body {
+    font-size: 25px; }
   .print, #block-test-account-menu {
     display: none !important; }
   .apartment-inner {
