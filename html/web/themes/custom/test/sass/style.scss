@@ -188,11 +188,12 @@
   body {
     font-size: 25px;
   }
-  .print, #block-test-account-menu, .header-apartments {
+  .print, #block-test-account-menu, .header-apartments, .length {
     display: none !important;
 
   }
   .apartment-inner {
+    min-height: 1350px;
     max-height: 1350px;
     overflow: hidden;
   }
