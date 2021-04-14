@@ -1,27 +1,44 @@
+<div class="header-apartments">
+  <img src="/images/minisite_desktop.png">
+
+  <div class="container">
+    <div class="text">
+      משגב-לדיור ממוקם בבני ברק ועוסק ביזמות נדלן בתיווך מכירה והשכרת נכסים יעוץ מקצועי והכוונה בכל תחום הנדלן עד לפרטים
+      הקטנים אצלנו תוכלו למצוא מאגר גדול של דירות יד שניה וחדשות
+    </div>
+  </div>
+
+</div>
 <div class="container">
 
 
   <div class="print">
-    <button onclick="window.print();">{{ 'Print'|t }}</button>
+    <div class="">
+      {{ 'apartments board'|t }}
+    </div>
+    <button>
+      <i></i>
+      {{ 'Print all apartments'|t }}
+    </button>
   </div>
+
   <div class="apartments">
     {% set image = "" %}
+
     {% for key,node in data %}
 
-
       {% set images = [] %}
-
 
       {% for k,v in node.field_pictures %}
         {% set images = images|merge([v.entity.fileuri]) %}
       {% endfor %}
+
+      <div class="logo">
+        <img src="/images/logo.jpg">
+      </div>
       <div class="apartment">
-
         <div class="apartment-inner open">
-
-
           <div class="header">
-
             <div class="image"><img src="/images/feed_re_placeholder_small.png"></div>
 
             {% if node.field_address.value %}
@@ -80,7 +97,7 @@
               <div class="col-md-12 col-sm-12">
                 <i class="phone"></i>
                 <span class="name">{{ 'Contact'|t }}:</span>
-                <a href="tel:5551234567">{{ node.uid.entity.field_phone.value }}</a>
+                <a href="tel:{{ node.uid.entity.field_phone.value }}">{{ node.uid.entity.field_phone.value }}</a>
               </div>
 
             </div>
