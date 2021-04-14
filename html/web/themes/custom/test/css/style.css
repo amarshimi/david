@@ -12,8 +12,7 @@
     overflow: hidden; }
     @media (max-width: 768px) {
       .header-apartments .text {
-        height: 200px;
-        bottom: 0; } }
+        display: none; } }
   .header-apartments img {
     width: 100%;
     max-width: 100%;

@@ -19,8 +19,7 @@
     overflow: hidden;
 
     @include start-mobile {
-      height: 200px;
-      bottom: 0;
+      display: none;
     }
   }
 
