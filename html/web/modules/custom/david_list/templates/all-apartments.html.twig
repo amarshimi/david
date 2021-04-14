@@ -23,6 +23,11 @@
   </div>
 
   <div class="apartments">
+
+    <div class="length">
+      {{ data|length }} {{ 'Apartments for sale'|t }}
+    </div>
+
     {% set image = "" %}
 
     {% for key,node in data %}

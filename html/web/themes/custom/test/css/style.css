@@ -51,6 +51,9 @@
   max-width: 100%;
   height: auto; }
 
+.apartments .length {
+  padding: 20px; }
+
 .apartments .apartment {
   padding: 20px; }
   .apartments .apartment .apartment-inner {
